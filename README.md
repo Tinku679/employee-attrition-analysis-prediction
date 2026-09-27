@@ -83,3 +83,18 @@ Feature Scaling
 Logistic Regression
    ↓
 Model Evaluation
+Employee-Attrition-Analysis/
+│
+├── data/
+│   └── employee_data.csv
+│
+├── notebooks/
+│   └── employee_attrition_analysis.ipynb
+│
+├── images/
+│   ├── salary_distribution.png
+│   ├── attrition_by_salary.png
+│   ├── attrition_by_projects.png
+│   └── attrition_by_tenure.png
+│
+├── README.md
